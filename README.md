@@ -1,3 +1,3 @@
 # megacorp
-
-The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
+# megacorp | good marketing exanple
+MegaCorp'" is *the* enterprise Customer Relationship Management (CRY) software. Not only is it an incredi
